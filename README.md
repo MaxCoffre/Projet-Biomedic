@@ -7,6 +7,6 @@ The problematic is to quantify the impact of risk factor on the resistance ratio
 
 The risks factors are : diabetes, hypertension, previous hospitalisation and infection frequency.
 
-We calculate a resistance ratio for each bacterium and we use ttests to evaluate the significance of the impact of risks factors.
+We calculate a resistance ratio for each bacterium and we use a logistical regression to evaluate the significance of the impact of diabetes and hypertension.
 
 Some other data were added, like climate data in USA (those are real).
